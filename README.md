@@ -1,4 +1,6 @@
 Human Activity Recognition with Feature Selection (GA & PSO)
+
+
 This project applies feature selection techniques using Genetic Algorithm (GA) and Particle Swarm Optimization (PSO) to enhance classification performance for Human Activity Recognition (HAR) based on smartphone sensor data. It evaluates models including Random Forest and XGBoost, with and without feature selection.
 
 📦 Dataset
