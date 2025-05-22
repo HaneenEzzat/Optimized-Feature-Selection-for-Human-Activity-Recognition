@@ -84,4 +84,4 @@ Apply GA and PSO for feature selection
 Retrain and evaluate models on selected features
 
 نسخ
-تحري
+ت
