@@ -63,7 +63,6 @@ GA + XGBoost	~96.47%
 PSO + Random Forest	~92.53%
 PSO + XGBoost	~93.31%
 
-(Replace XX.XX% with actual results from your run)
 
 📈 Visualizations
 Confusion matrices for all models
